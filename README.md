@@ -1,5 +1,6 @@
 # Reto-05
 
+## Estructura: 
 - geometry/
 - │
 - ├── base/
