@@ -3,7 +3,7 @@
 ## Estructura: 
 - geometry/
 - │
-- ├── base/
+- ├── formas/
 - │ ├── __init__.py 
 - │ ├── rectiangel.py 
 - │ ├── triangle.py 
